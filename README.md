@@ -7,3 +7,6 @@
 **具体更新操作:**
 ![image](https://user-images.githubusercontent.com/119733736/233659786-13278117-f99a-4ff3-a49a-b9c334bb6169.png)
 ![image](https://user-images.githubusercontent.com/119733736/233659869-f36ffefc-e51e-47bc-8115-bcae3be0561a.png)
+
+## 更新(2023/4/23 9:42)
+完成了菜品展示功能的开发,对应视频P94
